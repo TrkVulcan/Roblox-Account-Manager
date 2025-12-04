@@ -47,7 +47,7 @@ Nexus:Log('asd', workspace)
 ### Example
 ```lua
 Nexus:Echo('hello to all accounts!')
-```
+```f
 
 ## \<void\> Nexus:Create\[Button, TextBox, Label\](\<string\> Name, \<string\> Content, [optional] \<table\> Size, [optional] \<table\> Margins, [optional] \<table\> ExtraPayload)
 ### Create an element of type into the control panel
